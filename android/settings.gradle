@@ -1,0 +1,3 @@
+rootProject.name = 'demotto'
+
+include ':app'
